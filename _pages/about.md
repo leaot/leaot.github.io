@@ -27,7 +27,7 @@ Currently working at an Agronomy school, but I am interested in moving to a Phys
 I have interest in teaching introductory physics courses, transport in porous media, groundwater hydrology and introductory computational physics. 
 
 
-Here is my <a href="(https://github.com/l3x0/l3x0.github.io/blob/gh-pages/assets/pdf/tpl-cv-us.pdf)"> CV <a> 
+Here is my <a href="https://github.com/l3x0/l3x0.github.io/blob/gh-pages/assets/pdf/tpl-cv-us.pdf"> CV <a> 
 
 Contact me at: tleao  (at) unb (dot) br
 
