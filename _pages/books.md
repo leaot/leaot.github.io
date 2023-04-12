@@ -13,6 +13,6 @@ Leao, T.P. 2022. Physics of soil and other natural porous media. ArXiv 2210.0771
 
 2.
 Leao, T.P. 2022. Solos: Uma introdução (In Portuguese). In press, accepted manuscript. <a href=
-"https://github.com/l3x0/l3x0.github.io/blob/gh-pages/assets/pdf/SolosUmaIntroducao_EditoraUnB_(DivulgacaoPreprint).pdf">  link   <a>
+"https://l3x0.github.io/assets/pdf/SolosUmaIntroducao_EditoraUnB_(DivulgacaoPreprint).pdf">  link   <a>
 
 
