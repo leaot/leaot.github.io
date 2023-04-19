@@ -158,7 +158,7 @@ $$
 \nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m). (1-12)
 $$
 
-The combination of $ u\rho d/\mu = Re$ is the Reynolds number for filtration micromotion. Assuming that the function $g(Re)$ expands in a power series, and restricting ourselves to the first two terms, we obtain the equation of the two-term filtering law:
+The combination of $u\rho d/\mu = Re$ is the Reynolds number for filtration micromotion. Assuming that the function $g(Re)$ expands in a power series, and restricting ourselves to the first two terms, we obtain the equation of the two-term filtering law:
 
 $$
 -\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u}   (1.13)
