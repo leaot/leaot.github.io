@@ -22,7 +22,7 @@ The following is from Barenblatt et al. (1984):
 Darcy's law limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $\mathbf{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $\Delta S$ with normal $\mathbf{n}$ through it. A mass of liquid $\Delta Q$ flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $\mathbf{n}$ to the selected area is equal to the limit of the ratio $\Delta Q/\rho \Delta S$  as $\Delta S \lim 0$. Here $\rho $ is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $\mathbf{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $\Delta S$ with normal $\mathbf{n}$ through it. A mass of liquid $\Delta Q$ flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $\mathbf{n}$ to the selected area is equal to the limit of the ratio $\Delta Q/\rho \Delta S$  as $\Delta S \lim 0$. Here $\rho$ is the fluid density. not on its part, occupied by pores.
 
 
 
@@ -74,13 +74,13 @@ Relation (1.2) describes the Darcy filtration law (named after the French engine
 
 
 If instead of $\rho$ we consider the true pressure in the liquid
-$P = p - \rho gz $, where $g$ is the free fall acceleration, $z$ is the height of the considered point above some calculated level, then (1.5) can be written in the form
+$P = p - \rho gz$, where $g$ is the free fall acceleration, $z$ is the height of the considered point above some calculated level, then (1.5) can be written in the form
 
 $$
 \mathbf{u} = -\nabla (P+ \rho g z). (1.6)
 $$
 
-In hydrotechnical calculations, the head $H = p/\rho g $ is usually used, then we have
+In hydrotechnical calculations, the head $H = p/\rho g$ is usually used, then we have
 
 $$
 \mathbf{u} = - C \nabla H, C = \kappa \rho g /\mu (1.7)
@@ -158,7 +158,7 @@ $$
 \nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m). (1-12)
 $$
 
-The combination of $ u\rho d/\mu = Re$$ is the Reynolds number for filtration micromotion. Assuming that the function $g(Re)$ expands in a power series, and restricting ourselves to the first two terms, we obtain the equation of the two-term filtering law:
+The combination of $ u\rho d/\mu = Re$ is the Reynolds number for filtration micromotion. Assuming that the function $g(Re)$ expands in a power series, and restricting ourselves to the first two terms, we obtain the equation of the two-term filtering law:
 
 $$
 -\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u}   (1.13)
@@ -167,7 +167,7 @@ $$
 
 
 Here, $k^{1/2}$ is taken as the characteristic dimension $d$ and it is taken into account that for $u \lim 0$ Darcy's law must be valid.
-The two-term filtration law was first proposed by Forchheimer. Formula (1.13) describes the observational data well even for very large Reynolds numbers. Thus, for non-cemented (bulk) porous media, this law is valid up to Reynolds numbers of the order of 10-100, while deviations from the linear law begin at $Re \approx$ 0.1-1.0. Repeated attempts have been made to choose the characteristic size $d$ in such a way that the filtration process in porous media of various structures can be described by a single formula. It turned out to be successful introduction as characteristic size of the quantity $(\kappa /m)$^{1/2} proposed by M. D. Millionshchikov. Then the number $Re$ turns out to be equal to $ \rho u \kappa^{1/2} m^{3/2}/\mu$.
+The two-term filtration law was first proposed by Forchheimer. Formula (1.13) describes the observational data well even for very large Reynolds numbers. Thus, for non-cemented (bulk) porous media, this law is valid up to Reynolds numbers of the order of 10-100, while deviations from the linear law begin at $Re \approx$ 0.1-1.0. Repeated attempts have been made to choose the characteristic size $d$ in such a way that the filtration process in porous media of various structures can be described by a single formula. It turned out to be successful introduction as characteristic size of the quantity $(\kappa /m)$^{1/2} proposed by M. D. Millionshchikov. Then the number $Re$ turns out to be equal to $\rho u \kappa^{1/2} m^{3/2}/\mu$.
 In this case, it is possible to uniformly describe the law of filtration in many media of different permeability. For unconsolidated porous media, the coefficients of the two-term filtration law (1.13) can be written in the form
 
 $$
