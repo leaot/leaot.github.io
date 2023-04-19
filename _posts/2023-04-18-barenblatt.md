@@ -22,7 +22,7 @@ The following is from Barenblatt et al. (1984):
 Darcy's law limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $\mathbf{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $\Delta S$ with normal $\mathbf{n}$ through it. A mass of liquid $\Delta Q$ flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $\mathbf{n}$ to the selected area is equal to the limit of the ratio $\Delta Q/\rho \Delta S$  as $\Delta S \lim 0$. Here $\rho$ is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $$ \mathbf{u} $$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $\Delta S$ with normal $\mathbf{n}$ through it. A mass of liquid $\Delta Q$ flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $\mathbf{n}$ to the selected area is equal to the limit of the ratio $\Delta Q/\rho \Delta S$  as $\Delta S \lim 0$. Here $\rho$ is the fluid density. not on its part, occupied by pores.
 
 
 
