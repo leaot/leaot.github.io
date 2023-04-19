@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with math
+title: Barenblatt and Darcy's law
 date: 2023-04-18 
 description: Barenblatt and Darcy's law
 tags: formatting math
@@ -21,7 +21,7 @@ I will be making gradual improvements of the translation and math as it is still
 Darcy's law limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $ \mathboldfont{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $ \Delta S $ with normal $ \mathbf{n}$ through it. A mass of liquid $ \Delta Q $ flows through the selected area per unit time. Then the projection of the vector $ \mathbf{u}$ onto the normal $ \mathbf{n}$ to the selected area is equal to the limit of the ratio $ \Delta Q/\rho \Delta S $  as $ \Delta S \lim 0 $. Here $ \rho  $ is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $ \mathbf{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $ \Delta S $ with normal $ \mathbf{n}$ through it. A mass of liquid $ \Delta Q $ flows through the selected area per unit time. Then the projection of the vector $ \mathbf{u}$ onto the normal $ \mathbf{n}$ to the selected area is equal to the limit of the ratio $ \Delta Q/\rho \Delta S $  as $ \Delta S \lim 0 $. Here $ \rho  $ is the fluid density. not on its part, occupied by pores.
 
 
 
@@ -65,12 +65,11 @@ $$
 After that, equation (1.2) can be represented as 
 
 $$
-
 \nabla p = - \mu d^{-2} \mathbf{u}; \mathbf{u} = - (\kappa/\mu) \nabla p; \kappa = d^2/f.   (1.5)
 $$
 
 
-Relation (1.2) describes the Darcy filtration law (named after the French engineer A. Darcy, who established it experimentally in 1856). The value k is called permeability (it has the dimension of area, does not depend on the properties of the liquid, and is a purely geometric characteristic of a porous medium).
+Relation (1.2) describes the Darcy filtration law (named after the French engineer A. Darcy, who established it experimentally in 1856). The value $\kappa$ is called permeability (it has the dimension of area, does not depend on the properties of the liquid, and is a purely geometric characteristic of a porous medium).
 
 
 If instead of $\rho$ we consider the true pressure in the liquid
@@ -83,7 +82,7 @@ $$
 In hydrotechnical calculations, the head $H = p/\rho g $ is usually used, then we have
 
 $$
-\mathbf{u} = - C grad H, C = \kappa \rho g /\mu [i, (1.7)
+\mathbf{u} = - C grad H, C = \kappa \rho g /\mu (1.7)
 $$
 
 where $C$ is the filtration coefficient, has the dimension of velocity.
@@ -109,8 +108,7 @@ They are mainly used in calculations of the filtration resistance of artificial 
 Until now, it has been assumed that the porous medium is isotropic. Natural reservoirs are often characterized by anisotropy, associated either with natural layering (for sedimentary rocks) or with the development of systems of parallel microcracks caused by stresses in the rock. If the porous medium is not isotropic, then in an arbitrary orthogonal ekart coordinate system $х_1$, $х_2$ and $х_3$ components of the vector $ grad \rho$ are expressed in terms of the components $u_i$ of the vector $\mathbf{u}$  followin a descriptive way:
 
 $$
-\partial p/\partial x_i = - c_{i \alpha} u_{\alpha}
- (1.9)
+\partial p/\partial x_i = - c_{i \alpha} u_{\alpha} (1.9)
 $$
 
 
