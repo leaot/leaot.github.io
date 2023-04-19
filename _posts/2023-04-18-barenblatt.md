@@ -13,10 +13,11 @@ I found a copy of the rare original Barenblatt, Entov and Ryzhik "ДВИЖЕНИ
 Here is the [link] (https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkostey-i-gazov-v-prirodnyh-plastah-gibarenblatt-vmentov-vmryzhik.pdf). Please contact me if you want it removed. 
 
 
-I translated a relevant section about Darcy's law using ***** translate as I don't speak Russian at all. It is interesting to see how much more elegant the Russian version is both mathematically and in writing, even if it is a translation. 
+I translated a relevant section about Darcy's law using some translating engine as I don't speak Russian at all. It is interesting to see how much more elegant the Russian version is both mathematically and in writing, even if it is a translation. 
 
 I will be making gradual improvements of the translation and math as it is still full of mistakes. 
 
+The following is from Barenblatt et al. (1984):
 
 Darcy's law limits of its applicability and clarifications
 
@@ -92,7 +93,7 @@ As can be seen from the above derivation, Darcy's law is a consequence of the as
 
 
 
-Most often, from formulas of this type, the Kozeny-Karman equation is used, obtained on the basis of an analogy between a porous medium and a system of parallel tubes, expressing the permeability through the specific surface $\Sigma $ and porosity $m$:
+Most often, from formulas of this type, the Kozeny-Karman equation is used, obtained on the basis of an analogy between a porous medium and a system of parallel tubes, expressing the permeability through the specific surface $\Sigma$ and porosity $m$:
 
 $$
 \kappa = K m^3 \Sigma^{-2}. (1.8)
@@ -165,11 +166,8 @@ $$
 
 
 
-Here, $k^{1/2}$ is taken as the characteristic dimension $d$
-and it is taken into account that for $u \lim 0$ Darcy's law must be valid.
-The two-term filtration law was first proposed by Forchgay
-measure. Formula (1.13) describes the observational data well even for very large Reynolds numbers. Thus, for non-cemented (bulk) porous media, this law is valid up to Reynolds numbers of the order of 10-100, while deviations from the linear law begin at $Re \approx$ 0.1-1.0. Repeated attempts have been made to choose the characteristic size $d$ in such a way that the filtration process in porous media of various structures can be described by a single formula. It turned out to be successful introduction as
-characteristic size of the quantity $(\kappa /m)$^{1/2} proposed by M. D. Millionshchikov. Then the number $Re$ turns out to be equal to $ \rho u \kappa^{1/2} m^{3/2}/\mu$.
+Here, $k^{1/2}$ is taken as the characteristic dimension $d$ and it is taken into account that for $u \lim 0$ Darcy's law must be valid.
+The two-term filtration law was first proposed by Forchheimer. Formula (1.13) describes the observational data well even for very large Reynolds numbers. Thus, for non-cemented (bulk) porous media, this law is valid up to Reynolds numbers of the order of 10-100, while deviations from the linear law begin at $Re \approx$ 0.1-1.0. Repeated attempts have been made to choose the characteristic size $d$ in such a way that the filtration process in porous media of various structures can be described by a single formula. It turned out to be successful introduction as characteristic size of the quantity $(\kappa /m)$^{1/2} proposed by M. D. Millionshchikov. Then the number $Re$ turns out to be equal to $ \rho u \kappa^{1/2} m^{3/2}/\mu$.
 In this case, it is possible to uniformly describe the law of filtration in many media of different permeability. For unconsolidated porous media, the coefficients of the two-term filtration law (1.13) can be written in the form
 
 $$
