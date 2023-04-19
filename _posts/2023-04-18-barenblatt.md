@@ -22,7 +22,7 @@ The following is from Barenblatt et al. (1984):
 Darcy's law - limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $$ \mathbf{u} $$ , is determined as follows. We choose a point $$ M $$  of the porous medium and draw an arbitrary elementary area $$ \Delta S $$  with normal  $$ \mathbf{n} $$  through it. A mass of liquid  $$ \Delta Q $$  flows through the selected area per unit time. Then the projection of the vector $$ \mathbf{u} $$ onto the normal  $$ \mathbf{n} $$  to the selected area is equal to the limit of the ratio  $$ \Delta Q/\rho \Delta S $$   as  $$ \Delta S \lim 0 $$ . Here  $$ \rho $$  is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $$ \mathbf{u} $$ , is determined as follows. We choose a point $$ M $$  of the porous medium and draw an arbitrary elementary area $$ \Delta S $$  with normal  $$ \mathbf{n} $$  through it. A mass of liquid  $$ \Delta Q $$  flows through the selected area per unit time. Then the projection of the vector $$ \mathbf{u} $$ onto the normal  $$ \mathbf{n} $$  to the selected area is equal to the limit of the ratio  $$ \Delta Q/\rho \Delta S $$   as  $$ \Delta S \rightarrow 0 $$ . Here  $$ \rho $$  is the fluid density. not on its part, occupied by pores.
 
 
 
@@ -45,7 +45,7 @@ $$
 \nabla p = - c \mathbf{u}
 $$
 
-where $c$ is some scalar quantity depending on the modulus of the velocity vector  $$ u $$ , as well as on the quantities  $$ d $$ ,  $$ m $$ ,  $$ \rho $$ ,  $$ \mu $$ .
+where $$ c $$ is some scalar quantity depending on the modulus of the velocity vector  $$ u $$ , as well as on the quantities  $$ d $$ ,  $$ m $$ ,  $$ \rho $$ ,  $$ \mu $$ .
 
 
 Let us consider filtration motions when inertial forces are insignificant. Most of the filtration flows encountered in practice belong to the number of such inertial motions, since they occur slowly. In this case, the density p, which characterizes the inertial properties of the liquid, is insignificant and is excluded from the number of determining parameters. Thus, with inertial motions, the value of  $$ c $$  depends only on  $$ u $$ ,  $$ d $$ ,  $$ m $$  and  $$ \mu $$ . Let us write down the dimensions of the quantities of interest to us:
@@ -165,7 +165,7 @@ $$
 
 
 
-Here,  $$ k^{1/2} $$  is taken as the characteristic dimension  $$ d $$  and it is taken into account that for  $$ u \lim 0 $$  Darcy's law must be valid.
+Here,  $$ k^{1/2} $$  is taken as the characteristic dimension  $$ d $$  and it is taken into account that for  $$ u \rightarrow 0 $$  Darcy's law must be valid.
 The two-term filtration law was first proposed by Forchheimer. Formula (1.13) describes the observational data well even for very large Reynolds numbers. Thus, for non-cemented (bulk) porous media, this law is valid up to Reynolds numbers of the order of 10-100, while deviations from the linear law begin at  $$ Re \approx $$  0.1-1.0. Repeated attempts have been made to choose the characteristic size $d$ in such a way that the filtration process in porous media of various structures can be described by a single formula. It turned out to be successful introduction as characteristic size of the quantity  $$ (\kappa /m)^{1/2} $$  proposed by M. D. Millionshchikov. Then the number  $$ Re $$  turns out to be equal to  $$ \rho u \kappa^{1/2} m^{3/2}/\mu $$ .
 In this case, it is possible to uniformly describe the law of filtration in many media of different permeability. For unconsolidated porous media, the coefficients of the two-term filtration law (1.13) can be written in the form
 
@@ -179,5 +179,3 @@ Therefore, this form of writing a two-term law is not universal.
 
 The appearance of a quadratic term in the equation of the filtration law is still sometimes explained by flow turbulence. However, the order of the critical Reynolds numbers in filtration theory (0.1-10), calculated from the diameter of grains or a porous medium, points to the incorrectness of such a statement. The absence of turbulence (i.e., fluctuations in velocity with time) has also been proven by direct experiments. This incorrect view is due to the fact that in the hydraulics of round cylindrical pipes, the deviation from the linear dependence is necessarily associated with flow turbulence, but this is not the case even for laminar flow in curved pipes. In the problems of the theory of oil and gas filtration in natural reservoirs, the application of the two-term law is limited to the movement of high-rate wells in the near-wellbore zone and filtration in fractured media. In addition to violations of the Darcy law associated with the manifestation of inertial forces, the linear filtration law can be violated at very low velocities, when anomalous rheological properties of moving fluids appear.
 These questions will be discussed in Chap. III
-
- text</span>
