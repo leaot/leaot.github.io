@@ -10,7 +10,7 @@ related_posts: false
 
 I found a copy of the rare original Barenblatt, Entov and Ryzhik "ДВИЖЕНИЕ ЖИДКОСТЕЙ И ГАЗОВ В ПРИРОДНЫХ ПЛАСТАХ". The English translation of this book "Theory of Fluid Flows Through Natural Rocks" runs pretty expensive nowadays without known online copies of the digital version. 
 
-Here is the [link](https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkostey-i-gazov-v-prirodnyh-plastah-gibarenblatt-vmentov-vmryzhik.pdf). Please contact me if you want it removed. 
+Here is the [link](https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkostey-i-gazov-v-prirodnyh-plastah-gibarenblatt-vmentov-vmryzhik.pdf). Please contact me if you want it removed. (Link appears to be dead for now, will check later)
 
 
 I translated a relevant section about Darcy's law using some translating engine as I don't speak Russian at all. It is interesting to see how much more elegant the Russian version is both mathematically and in writing, even if it is a translation. 
@@ -51,22 +51,21 @@ where $$ c $$ is some scalar quantity depending on the modulus of the velocity v
 Let us consider filtration motions when inertial forces are insignificant. Most of the filtration flows encountered in practice belong to the number of such inertial motions, since they occur slowly. In this case, the density p, which characterizes the inertial properties of the liquid, is insignificant and is excluded from the number of determining parameters. Thus, with inertial motions, the value of  $$ c $$  depends only on  $$ u $$ ,  $$ d $$ ,  $$ m $$  and  $$ \mu $$ . Let us write down the dimensions of the quantities of interest to us:
 
 $$
-[m] = 1; [с] = ML^{-3}T^{-1}; [u] = LT^{-1}; [d] = L; [\mu] = ML^{-1}T^{-1}. (1.3)
+[m] = 1; ~ [с] = ML^{-3}T^{-1}; ~ [u] = LT^{-1}; ~ [d] = L; ~ [\mu] = ML^{-1}T^{-1} ~ (1.3)
 $$
 
 
 Of the four defining parameters, three ( $$ u $$ ,  $$ d $$  and  $$ \mu $$ ) have independent dimensions. Then, according to the analysis of dimensions, the dimensionless combination  $$ cd^2/\mu $$ . can depend only on the only dimensionless quantity among the determining parameters - porosity  $$ m $$ :
 
 $$
-cd^2/\mu = f(m); c = d^{-2} \mu f(m)
-(1.4)
+cd^2/\mu = f(m); c = d^{-2} \mu f(m) ~ (1.4)
 $$
 
 
 After that, equation (1.2) can be represented as 
 
 $$
-\nabla p = - \mu d^{-2} \mathbf{u}; \mathbf{u} = - (\kappa/\mu) \nabla p; \kappa = d^2/f.   (1.5)
+\nabla p = - \mu d^{-2} \mathbf{u}; \mathbf{u} = - (\kappa/\mu) \nabla p; \kappa = d^2/f ~   (1.5)
 $$
 
 Relation (1.2) describes the Darcy filtration law (named after the French engineer A.(sic) Darcy, who established it experimentally in 1856). The value  $$ \kappa $$  is called permeability (it has the dimension of area, does not depend on the properties of the liquid, and is a purely geometric characteristic of a porous medium).
@@ -75,13 +74,13 @@ Relation (1.2) describes the Darcy filtration law (named after the French engine
 If instead of  $$ \rho $$  we consider the true pressure in the liquid  $$ P = p - \rho gz $$ , where  $$ g $$  is the free fall acceleration,  $$ z $$  is the height of the considered point above some calculated level, then (1.5) can be written in the form
 
 $$
-\mathbf{u} = -\nabla (P+ \rho g z). (1.6)
+\mathbf{u} = -\nabla (P + \rho g z) ~ (1.6)
 $$
 
 In hydrotechnical calculations, the head  $$ H = p/\rho g $$  is usually used, then we have
 
 $$
-\mathbf{u} = - C \nabla H, C = \kappa \rho g /\mu (1.7)
+\mathbf{u} = - C \nabla H, C = \kappa \rho g /\mu ~ (1.7)
 $$
 
 where  $$ C $$  is the filtration coefficient, has the dimension of velocity.
@@ -91,11 +90,10 @@ As can be seen from the above derivation, Darcy's law is a consequence of the as
 Most often, from formulas of this type, the Kozeny-Karman equation is used, obtained on the basis of an analogy between a porous medium and a system of parallel tubes, expressing the permeability through the specific surface  $$ \Sigma $$  and porosity  $$ m $$ :
 
 $$
-\kappa = K m^3 \Sigma^{-2}. (1.8)
+\kappa = K m^3 \Sigma^{-2} ~ (1.8)
 $$
 
 The constant  $$ K $$  is determined from experimental data and turns out to be different for porous media of various structures. Formula (1.8)
-
 
 
 They are mainly used in calculations of the filtration resistance of artificial porous media used in chemical apparatuses, as well as in determining the specific surface area of powders.
@@ -104,7 +102,7 @@ They are mainly used in calculations of the filtration resistance of artificial 
 Until now, it has been assumed that the porous medium is isotropic. Natural reservoirs are often characterized by anisotropy, associated either with natural layering (for sedimentary rocks) or with the development of systems of parallel microcracks caused by stresses in the rock. If the porous medium is not isotropic, then in an arbitrary orthogonal ekart coordinate system  $$ х_1 $$ ,  $$ х_2 $$  and  $$ х_3 $$  components of the vector  $$ grad~p $$  are expressed in terms of the components  $$ u_i $$  of the vector  $$ \mathbf{u} $$   followin a descriptive way:
 
 $$
-\partial p/\partial x_i = - c_{i \alpha} u_{\alpha}. (1.9)
+\partial p/\partial x_i = - c_{i \alpha} u_{\alpha} ~ (1.9)
 $$
 
 
@@ -118,7 +116,7 @@ Its components have a dimension inverse to the dimension of the area.
 Expressing the components of the velocity vector in terms of the components of the pressure gradient vector, we obtain
 
 $$
-u_i =  - (\kappa_{i\alpha}/\mu)\partial p/\partial x_{\alpha}, (1.10)
+u_i =  - (\kappa_{i\alpha}/\mu)\partial p/\partial x_{\alpha} ~ (1.10)
 $$
 
 where  $$ k_{ij} $$  is the permeability tensor, inverse to the tensor  $$ r_{ij} $$ , depends only on the geometric characteristics of the porous medium and has the dimension of area. Dependence (1.10) describes Darcy's law for an anisotropic porous medium.
@@ -133,14 +131,14 @@ This follows from the fact that the quadratic form  $$ r_{\beta \alpha}u_{\beta}
 while we have
 
 $$
-k_{11} = k_{22} = k; k_{33} = k_{0}; k_{ij} = 0 (i \ne j). (1.11)
+k_{11} = k_{22} = k; ~ k_{33} = k_{0};  ~ k_{ij} = 0  ~ (i \ne j) ~ (1.11)
 $$
 
 Darcy's law in the chosen coordinate system is written by virtue of relations (1.11) as follows:
 
 $$
-u_1 =  - (\kappa/\mu)\partial p/\partial x_{1};
-u_2 =  - (\kappa/\mu)\partial p/\partial x_{2};
+u_1 =  - (\kappa/\mu)\partial p/\partial x_{1}; ~
+u_2 =  - (\kappa/\mu)\partial p/\partial x_{2}; ~
 u_3 =  - (\kappa_0/\mu)\partial p/\partial x_{3}
 $$
 
@@ -148,13 +146,13 @@ $$
 At significant speeds, when it is no longer possible to ignore the inertial component of the resistance to fluid movement, the prerequisites laid down in the derivation of Darcy's law cease to be valid. Density p with dimension  $$ ML^{-3} $$  should be added to the number of defining parameters. Then the coefficient e in (1.2) will already depend on five quantities, from which two dimensionless combinations can be formed, which gives
 
 $$
-\nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m). (1.12)
+\nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m) ~ (1.12)
 $$
 
 The combination of  $$ u\rho d/\mu = Re $$  is the Reynolds number for filtration micromotion. Assuming that the function  $$ g(Re) $$  expands in a power series, and restricting ourselves to the first two terms, we obtain the equation of the two-term filtering law:
 
 $$
--\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u}.   (1.13)
+-\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u} ~  (1.13)
 $$
 
 Here,  $$ k^{1/2} $$  is taken as the characteristic dimension  $$ d $$  and it is taken into account that for  $$ u \rightarrow 0 $$  Darcy's law must be valid.
@@ -162,7 +160,7 @@ The two-term filtration law was first proposed by Forchheimer. Formula (1.13) de
 In this case, it is possible to uniformly describe the law of filtration in many media of different permeability. For unconsolidated porous media, the coefficients of the two-term filtration law (1.13) can be written in the form
 
 $$
-\alpha = A(1-m)^3 m^{-3}/D; \beta = B(1-m) m^{-3}/D
+\alpha = A(1-m)^3 m^{-3}/D, ~ \beta = B(1-m) m^{-3}/D
 $$
 
 Here  $$ D $$  is the average grain size of the rock,  $$ A $$  and  $$ B $$  are the values of the coefficients close to constant for individual groups of unconsolidated media, but they depend, for example, on the shape of the grains.
