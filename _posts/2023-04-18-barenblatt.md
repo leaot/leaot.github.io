@@ -33,7 +33,7 @@ That is why, in contrast to the equations of ordinary hydrodynamics, in the theo
 
 
 
-Some information about the form of the filtration law relating the filtration rate and the pressure gradient can be obtained based on the most general ideas. A porous medium is described by geometric parameters—characteristic size d and some dimensionless quantities: porosity m, distribution curve parameters, etc. The filtration law must follow from the equations of fluid motion in the pore space, so the system of defining quantities also includes those characteristics of the fluid that are included in these equations: density p and viscosity mu. Thus, we are looking for the form of dependence of the pressure gradient grad p on the filtration velocity vector u, the geometric characteristics of the porous medium m, d, etc.
+Some information about the form of the filtration law relating the filtration rate and the pressure gradient can be obtained based on the most general ideas. A porous medium is described by geometric parameters—characteristic size d and some dimensionless quantities: porosity m, distribution curve parameters, etc. The filtration law must follow from the equations of fluid motion in the pore space, so the system of defining quantities also includes those characteristics of the fluid that are included in these equations: density p and viscosity mu. Thus, we are looking for the form of dependence of the pressure gradient grad p on the filtration velocity vector u, the geometric characteristics of the porous medium $m$, $d$, etc.
 
 
 and liquid characteristics r and c. Among the quantities on which grad p depends, only the filtration rate is a vector. Due to the isotropy of the medium, the vector grad p must be directed along the same straight line as the vector u. Indeed, let the vector grad p form an angle distinct from zero with the direction of the vector. If the chosen arbitrary coordinate system is rotated around a vector and through a certain angle, then neither this vector nor any other of the defining parameters will change. Consequently, the vector grad p, which depends only on these parameters, should not change either. But if grad p makes a non-zero angle with the direction of the vector and, then when rotating its direction relative to the coordinate axes, it must necessarily change.
@@ -70,7 +70,7 @@ $$
 $$
 
 
-Relation (1.2) describes the Darcy filtration law (named after the French engineer A. Darcy, who established it experimentally in 1856). The value $\kappa$ is called permeability (it has the dimension of area, does not depend on the properties of the liquid, and is a purely geometric characteristic of a porous medium).
+Relation (1.2) describes the Darcy filtration law (named after the French engineer A.(sic) Darcy, who established it experimentally in 1856). The value $\kappa$ is called permeability (it has the dimension of area, does not depend on the properties of the liquid, and is a purely geometric characteristic of a porous medium).
 
 
 If instead of $\rho$ we consider the true pressure in the liquid
@@ -89,7 +89,7 @@ $$
 where $C$ is the filtration coefficient, has the dimension of velocity.
 
 
-As can be seen from the above derivation, Darcy's law is a consequence of the assumption of inertia-free fluid motion. A filtration flow obeying Darcy's law is a special case of a creeping flow, which is characterized by the predominance of viscous forces over inertial ones (i.e., the Reynolds numbers are very small - $Re<< 1$). Therefore, attempts to derive Darcy's law by averaging the equations of hydrodynamics are reduced to calculating the permeability from a given geometric structure of a porous medium.
+As can be seen from the above derivation, Darcy's law is a consequence of the assumption of inertia-free fluid motion. A filtration flow obeying Darcy's law is a special case of a creeping flow, which is characterized by the predominance of viscous forces over inertial ones (i.e., the Reynolds numbers are very small - $Re \ll 1$). Therefore, attempts to derive Darcy's law by averaging the equations of hydrodynamics are reduced to calculating the permeability from a given geometric structure of a porous medium.
 
 
 
@@ -113,7 +113,7 @@ $$
 $$
 
 
-where $c_{ij} $ is a certain tensor (summation is assumed over all values of the repeated Greek indices, so that $c_{i\alpha}u_{\alpha}$ means $c_{11}u_{1}+c_{12}u_{2}+c_{13}u_{3})$. In the case of inertial motions, the the components of the tensor $c_{ij} $ can depend only on the viscosity of the fluid $\mu$ and certain geometric characteristics of the porous medium. other geometric characteristics of the porous medium.
+where $c_{ij} $ is a certain tensor (summation is assumed over all values of the repeated Greek indices, so that $c_{i\alpha}u_{\alpha}$ means $c_{11}u_{1}+c_{12}u_{2}+c_{13}u_{3})$. In the case of inertial motions, the the components of the tensor $c_{ij}$ can depend only on the viscosity of the fluid $\mu$ and certain geometric characteristics of the porous medium. other geometric characteristics of the porous medium.
 
 Similarly to the derivation of formula (1.9), we can show that $c_{ij} = \mu r_{ij}$ where $r_{ij}$  is the specific filtration resistance tensor, which depends only on the geometric characteristics of the porous medium.
 
@@ -128,10 +128,10 @@ $$
 
 where $k_{ij}$ is the permeability tensor, inverse to the tensor $r_{ij}$, depends only on the geometric characteristics of the porous medium and has the dimension of area. Dependence (1.10) describes Darcy's law for an anisotropic porous medium.
 
-The resistance tensors $r_{ij}$ and permeability $k_{ij}$ are symmetrical$^1$
+The resistance tensors $r_{ij}$ and permeability $k_{ij}$ are symmetrical(1)
 Subscript
-$^$1
-This follows from the fact that the quadratic form $$r_{\beta \alpha}u_{\beta}u_{\alpha}$$, proportional to the specific effect of the forces of interaction of the liquid with the porous medium should not depend on the choice of coordinate system,
+(1)
+This follows from the fact that the quadratic form $r_{\beta \alpha}u_{\beta}u_{\alpha}$, proportional to the specific effect of the forces of interaction of the liquid with the porous medium should not depend on the choice of coordinate system,
 —
 
 
@@ -152,7 +152,7 @@ u_3 =  - (\kappa_0/\mu)\partial p/\partial x_{3}
 $$
 
 
-At significant speeds, when it is no longer possible to ignore the inertial component of the resistance to fluid movement, the prerequisites laid down in the derivation of Darcy's law cease to be valid. Density p with dimension ML~3 should be added to the number of defining parameters. Then the coefficient e in (1.2) will already depend on five quantities, from which two dimensionless combinations can be formed, which gives
+At significant speeds, when it is no longer possible to ignore the inertial component of the resistance to fluid movement, the prerequisites laid down in the derivation of Darcy's law cease to be valid. Density p with dimension $ML^{-3}$ should be added to the number of defining parameters. Then the coefficient e in (1.2) will already depend on five quantities, from which two dimensionless combinations can be formed, which gives
 
 $$
 \nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m). (1-12)
