@@ -21,7 +21,7 @@ I will be making gradual improvements of the translation and math as it is still
 Darcy's law limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $\mathbf{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $ \Delta S $ with normal $ \mathbf{n}$ through it. A mass of liquid $\Delta Q$ flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $ \mathbf{n}$ to the selected area is equal to the limit of the ratio $ \Delta Q/\rho \Delta S $  as $ \Delta S \lim 0 $. Here $ \rho  $ is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $\mathbf{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $\Delta S$ with normal $\mathbf{n}$ through it. A mass of liquid $\Delta Q$ flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $\mathbf{n}$ to the selected area is equal to the limit of the ratio $\Delta Q/\rho \Delta S$  as $\Delta S \lim 0$. Here $\rho $ is the fluid density. not on its part, occupied by pores.
 
 
 
@@ -82,7 +82,7 @@ $$
 In hydrotechnical calculations, the head $H = p/\rho g $ is usually used, then we have
 
 $$
-\mathbf{u} = - C grad H, C = \kappa \rho g /\mu (1.7)
+\mathbf{u} = - C \nabla H, C = \kappa \rho g /\mu (1.7)
 $$
 
 where $C$ is the filtration coefficient, has the dimension of velocity.
@@ -127,12 +127,15 @@ $$
 
 where $k_{ij}$ is the permeability tensor, inverse to the tensor $r_{ij}$, depends only on the geometric characteristics of the porous medium and has the dimension of area. Dependence (1.10) describes Darcy's law for an anisotropic porous medium.
 
-The resistance tensors $r_{ij}$ and permeability $k_{ij}$ are symmetrical ^1
+The resistance tensors $r_{ij}$ and permeability $k_{ij}$ are symmetrical$^1$
+Subscript
+$^$1
+This follows from the fact that the quadratic form $$r_{\beta \alpha}u_{\beta}u_{\alpha}$$, proportional to the specific effect of the forces of interaction of the liquid with the porous medium should not depend on the choice of coordinate system,
+—
 
 
- If the anisotropy of a porous medium is associated with natural layering, the permeability along the layers has one value, and in the perpendicular direction it has another, usually much smaller value. Therefore, one of the principal axes of the permeability tensor -
 
-$x_3$  is perpendicular to the bedding plane, and the other two are $x_1$ and $x_2$ can be chosen arbitrarily in the bedding plane. The  $x_1$, $x_2$, $x_2$ sysstem will be the main one at each point of the porous medium;
+ If the anisotropy of a porous medium is associated with natural layering, the permeability along the layers has one value, and in the perpendicular direction it has another, usually much smaller value. Therefore, one of the principal axes of the permeability tensor - $x_3$  is perpendicular to the bedding plane, and the other two are $x_1$ and $x_2$ can be chosen arbitrarily in the bedding plane. The  $x_1$, $x_2$, $x_2$ sysstem will be the main one at each point of the porous medium;
 while we have
 
 $$
@@ -146,12 +149,6 @@ u_1 =  - (\kappa/\mu)\partial p/\partial x_{1};
 u_2 =  - (\kappa/\mu)\partial p/\partial x_{2};
 u_3 =  - (\kappa_0/\mu)\partial p/\partial x_{3}
 $$
-
-Subscript
-1
-This follows from the fact that the quadratic form $$r_{\beta \alpha}u_{\beta}u_{\alpha}$$, proportional to the specific effect of the forces of interaction of the liquid with the porous medium should not depend on the choice of coordinate system,
-
-—
 
 
 At significant speeds, when it is no longer possible to ignore the inertial component of the resistance to fluid movement, the prerequisites laid down in the derivation of Darcy's law cease to be valid. Density p with dimension ML~3 should be added to the number of defining parameters. Then the coefficient e in (1.2) will already depend on five quantities, from which two dimensionless combinations can be formed, which gives
