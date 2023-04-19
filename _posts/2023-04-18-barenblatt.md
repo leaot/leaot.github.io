@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: a post with math
@@ -8,6 +7,7 @@ tags: formatting math
 categories: math
 related_posts: false
 ---
+
 I found a copy of the rare original Barenblatt, Entov and Ryzhik "ДВИЖЕНИЕ ЖИДКОСТЕЙ И ГАЗОВ В ПРИРОДНЫХ ПЛАСТАХ". The English translation of this book "Theory of Fluid Flows Through Natural Rocks" runs pretty expensive nowadays without known online copies of the digital version. 
 
 Here is the [link] (https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkostey-i-gazov-v-prirodnyh-plastah-gibarenblatt-vmentov-vmryzhik.pdf). Please contact me if you want it removed. 
@@ -21,7 +21,7 @@ I will be making gradual improvements of the translation and math as it is still
 Darcy's law limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $$ \mathboldfont{u}$$ , is determined as follows. We choose a point M of the porous medium and draw an arbitrary elementary area $$ \Delta S $$ with normal $$ \mathbf{n}$$ through it. A mass of liquid $$ \Delta Q $$ flows through the selected area per unit time. Then the projection of the vector $$ \mathbf{u}$$ onto the normal $$ \mathbf{n}$$ to the selected area is equal to the limit of the ratio $$ \Delta Q/\rho \Delta S $$  as $$ \Delta S \lim 0 $$. Here $$ \rho  $$ is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $ \mathboldfont{u}$ , is determined as follows. We choose a point $M$ of the porous medium and draw an arbitrary elementary area $ \Delta S $ with normal $ \mathbf{n}$ through it. A mass of liquid $ \Delta Q $ flows through the selected area per unit time. Then the projection of the vector $ \mathbf{u}$ onto the normal $ \mathbf{n}$ to the selected area is equal to the limit of the ratio $ \Delta Q/\rho \Delta S $  as $ \Delta S \lim 0 $. Here $ \rho  $ is the fluid density. not on its part, occupied by pores.
 
 
 
