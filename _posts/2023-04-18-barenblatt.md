@@ -15,7 +15,7 @@ Here is the [link](https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkos
 
 I translated a relevant section about Darcy's law using some translating engine as I don't speak Russian at all. It is interesting to see how much more elegant the Russian version is both mathematically and in writing, even if it is a translation. 
 
-I will be making gradual improvements of the translation and math as it is still full of mistakes. 
+I will be making gradual improvements of the translation and math as it is still full of mistakes (the conversion, not the original). 
 
 The following is from Barenblatt et al. (1984):
 
@@ -105,10 +105,10 @@ The constant  $$ K $$  is determined from experimental data and turns out to be 
 They are mainly used in calculations of the filtration resistance of artificial porous media used in chemical apparatuses, as well as in determining the specific surface area of powders.
 
 
-Until now, it has been assumed that the porous medium is isotropic. Natural reservoirs are often characterized by anisotropy, associated either with natural layering (for sedimentary rocks) or with the development of systems of parallel microcracks caused by stresses in the rock. If the porous medium is not isotropic, then in an arbitrary orthogonal ekart coordinate system  $$ х_1 $$ ,  $$ х_2 $$  and  $$ х_3 $$  components of the vector  $$ grad \rho $$  are expressed in terms of the components  $$ u_i $$  of the vector  $$ \mathbf{u} $$   followin a descriptive way:
+Until now, it has been assumed that the porous medium is isotropic. Natural reservoirs are often characterized by anisotropy, associated either with natural layering (for sedimentary rocks) or with the development of systems of parallel microcracks caused by stresses in the rock. If the porous medium is not isotropic, then in an arbitrary orthogonal ekart coordinate system  $$ х_1 $$ ,  $$ х_2 $$  and  $$ х_3 $$  components of the vector  $$ grad~p $$  are expressed in terms of the components  $$ u_i $$  of the vector  $$ \mathbf{u} $$   followin a descriptive way:
 
 $$
-\partial p/\partial x_i = - c_{i \alpha} u_{\alpha} (1.9)
+\partial p/\partial x_i = - c_{i \alpha} u_{\alpha}. (1.9)
 $$
 
 
@@ -122,7 +122,7 @@ Its components have a dimension inverse to the dimension of the area.
 Expressing the components of the velocity vector in terms of the components of the pressure gradient vector, we obtain
 
 $$
-u_i =  - (\kappa_{i\alpha}/\mu)\partial p/\partial x_{alpha}, (1.10)
+u_i =  - (\kappa_{i\alpha}/\mu)\partial p/\partial x_{\alpha}, (1.10)
 $$
 
 where  $$ k_{ij} $$  is the permeability tensor, inverse to the tensor  $$ r_{ij} $$ , depends only on the geometric characteristics of the porous medium and has the dimension of area. Dependence (1.10) describes Darcy's law for an anisotropic porous medium.
@@ -132,8 +132,6 @@ Subscript
 (1)
 This follows from the fact that the quadratic form  $$ r_{\beta \alpha}u_{\beta}u_{\alpha} $$ , proportional to the specific effect of the forces of interaction of the liquid with the porous medium should not depend on the choice of coordinate system,
 —
-
-
 
  If the anisotropy of a porous medium is associated with natural layering, the permeability along the layers has one value, and in the perpendicular direction it has another, usually much smaller value. Therefore, one of the principal axes of the permeability tensor -  $$ x_3 $$   is perpendicular to the bedding plane, and the other two are  $$ x_1 $$  and  $$ x_2 $$  can be chosen arbitrarily in the bedding plane. The   $$ x_1 $$ ,  $$ x_2 $$ ,  $$ x_2 $$  sysstem will be the main one at each point of the porous medium;
 while we have
@@ -154,13 +152,13 @@ $$
 At significant speeds, when it is no longer possible to ignore the inertial component of the resistance to fluid movement, the prerequisites laid down in the derivation of Darcy's law cease to be valid. Density p with dimension  $$ ML^{-3} $$  should be added to the number of defining parameters. Then the coefficient e in (1.2) will already depend on five quantities, from which two dimensionless combinations can be formed, which gives
 
 $$
-\nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m). (1-12)
+\nabla p = - \frac{\mu}{\kappa} \mathbf{u} g ( u\rho d/\mu,  m). (1.12)
 $$
 
 The combination of  $$ u\rho d/\mu = Re $$  is the Reynolds number for filtration micromotion. Assuming that the function  $$ g(Re) $$  expands in a power series, and restricting ourselves to the first two terms, we obtain the equation of the two-term filtering law:
 
 $$
--\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u}   (1.13)
+-\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u}.   (1.13)
 $$
 
 
@@ -170,7 +168,7 @@ The two-term filtration law was first proposed by Forchheimer. Formula (1.13) de
 In this case, it is possible to uniformly describe the law of filtration in many media of different permeability. For unconsolidated porous media, the coefficients of the two-term filtration law (1.13) can be written in the form
 
 $$
-\alpha = A(1-m)^3 m^{-3}/D/ \beta = B(1-m) m^{-3}/D
+\alpha = A(1-m)^3 m^{-3}/D; \beta = B(1-m) m^{-3}/D
 $$
 
 Here  $$ D $$  is the average grain size of the rock,  $$ A $$  and  $$ B $$  are the values of the coefficients close to constant for individual groups of unconsolidated media, but they depend, for example, on the shape of the grains.
