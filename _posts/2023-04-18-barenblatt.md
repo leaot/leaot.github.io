@@ -8,10 +8,9 @@ categories: math
 related_posts: false
 ---
 
-I found a copy of the rare original Barenblatt, Entov and Ryzhik "ДВИЖЕНИЕ ЖИДКОСТЕЙ И ГАЗОВ В ПРИРОДНЫХ ПЛАСТАХ". The English translation of this book "Theory of Fluid Flows Through Natural Rocks" runs pretty expensive nowadays without known online copies of the digital version. 
+I found a copy of the rare original Barenblatt, Entov and Ryzhik "Движение Жидкостей и Газов в Природных Пластах". The English translation of this book "Theory of Fluid Flows Through Natural Rocks" runs pretty expensive nowadays without known online copies of the digital version. 
 
-Here is the [link](https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkostey-i-gazov-v-prirodnyh-plastah-gibarenblatt-vmentov-vmryzhik.pdf). Please contact me if you want it removed. (Link appears to be dead for now, will check later)
-
+Here is the [link](https://www.geokniga.org/bookfiles/geokniga-dvizhenie-zhidkostey-i-gazov-v-prirodnyh-plastah-gibarenblatt-vmentov-vmryzhik.pdf). Please contact me if you want it removed. 
 
 I translated a relevant section about Darcy's law using some translating engine as I don't speak Russian at all. It is interesting to see how much more elegant the Russian version is both mathematically and in writing, even if it is a translation. 
 
