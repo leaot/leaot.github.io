@@ -69,7 +69,6 @@ $$
 \nabla p = - \mu d^{-2} \mathbf{u}; \mathbf{u} = - (\kappa/\mu) \nabla p; \kappa = d^2/f.   (1.5)
 $$
 
-
 Relation (1.2) describes the Darcy filtration law (named after the French engineer A.(sic) Darcy, who established it experimentally in 1856). The value  $$ \kappa $$  is called permeability (it has the dimension of area, does not depend on the properties of the liquid, and is a purely geometric characteristic of a porous medium).
 
 
@@ -87,10 +86,7 @@ $$
 
 where  $$ C $$  is the filtration coefficient, has the dimension of velocity.
 
-
 As can be seen from the above derivation, Darcy's law is a consequence of the assumption of inertia-free fluid motion. A filtration flow obeying Darcy's law is a special case of a creeping flow, which is characterized by the predominance of viscous forces over inertial ones (i.e., the Reynolds numbers are very small -  $$ Re \ll 1 $$). Therefore, attempts to derive Darcy's law by averaging the equations of hydrodynamics are reduced to calculating the permeability from a given geometric structure of a porous medium.
-
-
 
 Most often, from formulas of this type, the Kozeny-Karman equation is used, obtained on the basis of an analogy between a porous medium and a system of parallel tubes, expressing the permeability through the specific surface  $$ \Sigma $$  and porosity  $$ m $$ :
 
@@ -160,8 +156,6 @@ The combination of  $$ u\rho d/\mu = Re $$  is the Reynolds number for filtratio
 $$
 -\frac{\kappa}{\mu} \nabla p =  \mathbf{u} + \beta k^{1/2} \mu^{-1} \rho u \mathbf{u}.   (1.13)
 $$
-
-
 
 Here,  $$ k^{1/2} $$  is taken as the characteristic dimension  $$ d $$  and it is taken into account that for  $$ u \rightarrow 0 $$  Darcy's law must be valid.
 The two-term filtration law was first proposed by Forchheimer. Formula (1.13) describes the observational data well even for very large Reynolds numbers. Thus, for non-cemented (bulk) porous media, this law is valid up to Reynolds numbers of the order of 10-100, while deviations from the linear law begin at  $$ Re \approx $$  0.1-1.0. Repeated attempts have been made to choose the characteristic size $d$ in such a way that the filtration process in porous media of various structures can be described by a single formula. It turned out to be successful introduction as characteristic size of the quantity  $$ (\kappa /m)^{1/2} $$  proposed by M. D. Millionshchikov. Then the number  $$ Re $$  turns out to be equal to  $$ \rho u \kappa^{1/2} m^{3/2}/\mu $$ .
