@@ -19,11 +19,10 @@ I will be making gradual improvements of the translation and math as it is still
 
 The following is from Barenblatt et al. (1984):
 
-<span style="color:blue">
 Darcy's law - limits of its applicability and clarifications
 
 
-The main characteristic of the filtration movement, the filtration velocity vector $$ \mathbf{u} $$ , is determined as follows. We choose a point $$ M $$  of the porous medium and draw an arbitrary elementary area $$ \Delta S $$  with normal  $$ \mathbf{n} $$  through it. A mass of liquid  $$ \Delta Q $$  flows through the selected area per unit time. Then the projection of the vector $\mathbf{u}$ onto the normal $\mathbf{n}$ to the selected area is equal to the limit of the ratio  $$ \Delta Q/\rho \Delta S $$   as  $$ \Delta S \lim 0 $$ . Here  $$ \rho $$  is the fluid density. not on its part, occupied by pores.
+The main characteristic of the filtration movement, the filtration velocity vector $$ \mathbf{u} $$ , is determined as follows. We choose a point $$ M $$  of the porous medium and draw an arbitrary elementary area $$ \Delta S $$  with normal  $$ \mathbf{n} $$  through it. A mass of liquid  $$ \Delta Q $$  flows through the selected area per unit time. Then the projection of the vector $$ \mathbf{u} $$ onto the normal  $$ \mathbf{n} $$  to the selected area is equal to the limit of the ratio  $$ \Delta Q/\rho \Delta S $$   as  $$ \Delta S \lim 0 $$ . Here  $$ \rho $$  is the fluid density. not on its part, occupied by pores.
 
 
 
@@ -34,19 +33,19 @@ That is why, in contrast to the equations of ordinary hydrodynamics, in the theo
 
 
 
-Some information about the form of the filtration law relating the filtration rate and the pressure gradient can be obtained based on the most general ideas. A porous medium is described by geometric parameters—characteristic size d and some dimensionless quantities: porosity  $$ m $$ , distribution curve parameters, etc. The filtration law must follow from the equations of fluid motion in the pore space, so the system of defining quantities also includes those characteristics of the fluid that are included in these equations: density  $$ p $$  and viscosity  $$ \mu $$ . Thus, we are looking for the form of dependence of the pressure gradient  $$ grad p $$  on the filtration velocity vector  $$ \mathbf{u} $$ , the geometric characteristics of the porous medium  $$ m $$ ,  $$ d $$ , etc.
+Some information about the form of the filtration law relating the filtration rate and the pressure gradient can be obtained based on the most general ideas. A porous medium is described by geometric parameters—characteristic size d and some dimensionless quantities: porosity  $$ m $$ , distribution curve parameters, etc. The filtration law must follow from the equations of fluid motion in the pore space, so the system of defining quantities also includes those characteristics of the fluid that are included in these equations: density  $$ p $$  and viscosity  $$ \mu $$ . Thus, we are looking for the form of dependence of the pressure gradient  $$ grad~ p $$  on the filtration velocity vector  $$ \mathbf{u} $$ , the geometric characteristics of the porous medium  $$ m $$ ,  $$ d $$ , etc.
 
 
-and liquid characteristics r and c. Among the quantities on which grad p depends, only the filtration rate is a vector. Due to the isotropy of the medium, the vector grad p must be directed along the same straight line as the vector  $$ \mathbf{u} $$ . Indeed, let the vector  $$ grad p $$  form an angle distinct from zero with the direction of the vector. If the chosen arbitrary coordinate system is rotated around a vector and through a certain angle, then neither this vector nor any other of the defining parameters will change. Consequently, the vector grad p, which depends only on these parameters, should not change either. But if grad p makes a non-zero angle with the direction of the vector and, then when rotating its direction relative to the coordinate axes, it must necessarily change.
+and liquid characteristics r and c. Among the quantities on which $$ grad~ p $$ depends, only the filtration rate is a vector. Due to the isotropy of the medium, the vector $$ grad~ p $$ must be directed along the same straight line as the vector  $$ \mathbf{u} $$ . Indeed, let the vector  $$ grad~ p $$  form an angle distinct from zero with the direction of the vector. If the chosen arbitrary coordinate system is rotated around a vector and through a certain angle, then neither this vector nor any other of the defining parameters will change. Consequently, the vector $$ grad~ p $$, which depends only on these parameters, should not change either. But if $$ grad~ p $$ makes a non-zero angle with the direction of the vector and, then when rotating its direction relative to the coordinate axes, it must necessarily change.
 
 
-This implies that the directions of the vectors and and grad p must coincide, so that
+This implies that the directions of the vectors and and $$ grad~ p $$ must coincide, so that
 
 $$
 \nabla p = - c \mathbf{u}
 $$
 
-where $c$ is some scalar quantity depending on the modulus of the velocity vector $u$, as well as on the quantities $d$, $m$, $\rho$, $\mu$.
+where $c$ is some scalar quantity depending on the modulus of the velocity vector  $$ u $$ , as well as on the quantities  $$ d $$ ,  $$ m $$ ,  $$ \rho $$ ,  $$ \mu $$ .
 
 
 Let us consider filtration motions when inertial forces are insignificant. Most of the filtration flows encountered in practice belong to the number of such inertial motions, since they occur slowly. In this case, the density p, which characterizes the inertial properties of the liquid, is insignificant and is excluded from the number of determining parameters. Thus, with inertial motions, the value of  $$ c $$  depends only on  $$ u $$ ,  $$ d $$ ,  $$ m $$  and  $$ \mu $$ . Let us write down the dimensions of the quantities of interest to us:
