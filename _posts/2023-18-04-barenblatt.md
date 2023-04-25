@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Barenblatt and Darcy's law
-date: 2023-04-18 
+date: 2023-18-04 
 description: Barenblatt and Darcy's law
 tags: math
 categories: math
