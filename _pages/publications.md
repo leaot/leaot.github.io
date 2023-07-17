@@ -6,18 +6,11 @@ description: # false publications by categories in reversed chronological order.
 ---
 
 
-<strong> Pre-prints </strong>
-<ol>
-<li>
-Leao, T.P. 2023. Fluid conductivity in porous media in terms of beta functions. <a href="https://arxiv.org/pdf/2306.03979.pdf"> ArXiv </a> </li> 
-</ol>
-
 <strong> List of selected research papers (<a href="https://sci-hub">Learn more</a>): </strong>
 
 <ol>
 <li>
 Maia, F.C.O., Bufon, V.B., Leao, T.P. 2022. Vegetation indices as a tool for mapping sugarcane management zones. Precision Agriculture. </li> 
-
 
 <li>
 Leao, T.P., Wendt, T.G., Campos, G.A.S., de Figueiredo, C.C. 2022. Organic Matter, Agricultural Use, and Dispersion of Ferralsols for Grain Size Analysis. <em>  Communications in Soil Science and Plant Analysis</em> 1--15 </li>
