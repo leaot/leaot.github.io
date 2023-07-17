@@ -9,7 +9,7 @@ description: # false publications by categories in reversed chronological order.
 <strong> Pre-prints </strong>
 <ol>
 <li>
-Leao, T.P. 2023. Fluid conductivity in porous media in terms of beta functions. <a href="https://sci-hub](https://arxiv.org/pdf/2306.03979.pdf">ArXiv </a> </li> 
+Leao, T.P. 2023. Fluid conductivity in porous media in terms of beta functions. <a href="https://arxiv.org/pdf/2306.03979.pdf">ArXiv </a> </li> 
 </ol>
 
 <strong> List of selected research papers (<a href="https://sci-hub">Learn more</a>): </strong>
