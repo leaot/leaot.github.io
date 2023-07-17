@@ -6,9 +6,8 @@ description: #false Materials for courses you taught. Replace this text with you
 nav: true
 nav_order: 5
 ---
-
-I have started a series of short (?) videos on Fluid Dynamics (Fluid Dynamics Droplets - FDD)
 <ol>
+I have started a series of short (?) videos on Fluid Dynamics (Fluid Dynamics Droplets - FDD)
 <a href="https://youtube.com/playlist?list=PLLRBE1uLYrK_9JIL9qrSbmrYPORklABKB">Playlist</a>
   <li> <a href="https://youtu.be/eddZOJF825E">Euler (inviscid) flow </a> </li>
   <li> <a href="https://youtu.be/cU1MM_DG5kg">Notation for Euler and Navier-Stokes equations </a> </li>
