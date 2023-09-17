@@ -36,7 +36,7 @@ Installing, configuring and testing MinGW - C/C++/Fortran/ADA compiler (Windows)
 <li>
 Nonlinear regression diagnostics and parameter significance (Python)
 <br/><a href=" https://youtu.be/ePzwCGbt7dw">video</a>
-<br/><a href=" https://github.com/l3x0/statistics">code</a></li>
+<br/><a href=" https://github.com/leaot/statistics">code</a></li>
 
 <li>
 Simple bulk density and water content calculator (python)
@@ -44,7 +44,7 @@ Simple bulk density and water content calculator (python)
 <li>
 Simple nonlinear regression script in R (wrc example)
 <br/><a href=" https://youtu.be/CwBldkG30Io">video</a>
-<br/><a href=" https://github.com/l3x0/water-retention-curve-resources/blob/main/wrc.R">code</a></li>
+<br/><a href=" https://github.com/leaot/water-retention-curve-resources/blob/main/wrc.R">code</a></li>
 <li>
 Installing modules and nonlinear regression example (Python windows)
 <br/><a href=" https://youtu.be/SAvOEUR1f-4">video</a></li>
@@ -60,11 +60,11 @@ Fitting water retention curve - LibreOffice Calc version
 <li>
 Heat equation 1D - numerical solution explicit method (C++) with simple plot
 <br/><a href=" https://youtu.be/9s_7mRLqa68">video</a>
-<br/><a href=" https://github.com/l3x0/soilphysics/blob/main/heat1Dexplicit.cpp">code</a></li>
+<br/><a href=" https://github.com/leaot/soilphysics/blob/main/heat1Dexplicit.cpp">code</a></li>
 <li>
 Segmented nonlinear regression: Brooks and Corey equation in Python
 <br/><a href=" https://youtu.be/jY1f51pcJy8">video</a>
-<br/><a href="  https://github.com/l3x0/water-retention-curve-resources">code</a></li>
+<br/><a href="  https://github.com/leaot/water-retention-curve-resources">code</a></li>
 <li>
 Fitting water retention data using Excel
 <br/><a href=" https://youtu.be/bRoXdDayX4E">video</a></li>
