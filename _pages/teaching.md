@@ -9,10 +9,12 @@ nav_order: 5
 I have started a series of short (??) videos on Fluid Dynamics (Fluid Dynamics Droplets - FDD)
 <ol>
 <a href="https://youtube.com/playlist?list=PLLRBE1uLYrK_9JIL9qrSbmrYPORklABKB">Playlist</a>
-  <li> <a href="https://youtu.be/eddZOJF825E">Euler (inviscid) flow </a> </li>
-  <li> <a href="https://youtu.be/cU1MM_DG5kg">Notation for Euler and Navier-Stokes equations </a> </li>
-  <li> <a href="https://youtu.be/i1qMwuZ_1OU">Hagen-Poisuille for a cylindrical tube </a> </li>
-</ol>
+  <li> <a href="https://youtu.be/eddZOJF825E">FDD1 - Euler (inviscid) flow </a> </li>
+  <li> <a href="https://youtu.be/cU1MM_DG5kg">FDD2 - Notation for Euler and Navier-Stokes equations </a> </li>
+  <li> <a href="https://youtu.be/i1qMwuZ_1OU">FDD3 - Hagen-Poiseuille 1 (Circular cylinder) </a> </li>
+  <li> <a href="https://youtu.be/AYp9DhjYgRw">FDD4 - Hagen-Poiseuille 2 (Two infinite plates) </a> </li>
+  <li> <a href="https://youtu.be/J_CoSmkCzZU">FDD5 - Conservation of Mass Equation </a> </li>
+  </ol>
   
 I have been teaching intro soil science for more than 10 years, here is my full course in <a href="https://youtube.com/playlist?list=PLLRBE1uLYrK_9JIL9qrSbmrYPORklABKB">Portuguese</a>
 
