@@ -34,5 +34,4 @@ Contact me at: tleao  (at) unb (dot) br
 [Github](https://github.com/leaot) /
 [YouTube](https://www.youtube.com/channel/UCyFdBkXfxZR-cSYvXyQI8Pg) 
 
-
 [comment]: <> This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
