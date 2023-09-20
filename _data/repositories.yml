@@ -3,3 +3,7 @@ github_users:
  
 github_repos:
   - leaot/soilphysics
+  - https://github.com/FreeFem
+  - https://github.com/OpenFOAM
+  - https://github.com/dealii/dealii
+  - https://github.com/winnifried/dopelib
