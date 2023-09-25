@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: I will include other people's repositories soon # false Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: # I will include other people's repositories soon # false Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 nav_order: 3
 ---
