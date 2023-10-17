@@ -24,8 +24,9 @@ I am interested in physics and fluid mechanics applied to porous media.
 
 Currently working at an Agronomy school, but I am interested in moving to a Physics or Earth and Planetary Sciences department. 
 
-I have interest in teaching introductory physics courses, transport in porous media, groundwater hydrology and introductory computational physics. 
+I am interested in teaching introductory physics courses, transport in porous media, groundwater hydrology and introductory computational physics. 
 
+I am open to industry and research jobs in groundwater modeling, fluid flows in porous media, environmental modeling and geophysics in a broad sense. 
 
 Here is my <a href="https://leaot.github.io/assets/pdf/tpl-cv-us.pdf"> CV <a> 
 
