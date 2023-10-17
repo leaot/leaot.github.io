@@ -18,7 +18,11 @@ Leao, T.P. 2023. Fluid conductivity in porous media in terms of beta functions. 
 
 <ol>
 <li>
-Maia, F.C.O., Bufon, V.B., Leao, T.P. 2022. Vegetation indices as a tool for mapping sugarcane management zones. Precision Agriculture. </li> 
+Ndoung, O.C.N., de Souza, L.R., Fachini, J., Leao, T.P., Sandri, D. de Figueiredo, C.C. 2023. Dynamics of potassium released from sewage sludge biochar fertilizers in soil. Journal of Environmental Management 346: 119057.
+</li>
+ 
+ <li>
+Maia, F.C.O., Bufon, V.B., Leao, T.P. 2022. Vegetation indices as a tool for mapping sugarcane management zones. Precision Agriculture 24:213--234 </li> 
 
 <li>
 Leao, T.P., Wendt, T.G., Campos, G.A.S., de Figueiredo, C.C. 2022. Organic Matter, Agricultural Use, and Dispersion of Ferralsols for Grain Size Analysis. <em>  Communications in Soil Science and Plant Analysis</em> 1--15 </li>
@@ -62,7 +66,6 @@ Leao, T.P., Tuller, M. 2014. Relating soil specific surface area, water film thi
 
 <li>
 Leao, T.P., Guimaraes, T.L.B., de Figueiredo, C.C., Busato, J.G., Breyer, H.S. 2013. On Critical Coagulation Concentration Theory and Grain Size Analysis of Oxisols. <em>  Soil Science Society of America Journal </em> 77:1955 </li>
-
 
 
 <li>
