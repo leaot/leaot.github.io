@@ -7,3 +7,4 @@ github_repos:
   - OpenFOAM/OpenFOAM-11
   - dealii/dealii
   - winnifried/dopelib
+  - MODFLOW-USGS/modflow6 
