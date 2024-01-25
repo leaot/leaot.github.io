@@ -25,23 +25,23 @@ I am also interested in computational physics and numerical methods, here are so
 <li>
 Linear Regression with Diagnostics in C (GNU Scientific Library)
   <br/> <a href=" https://youtu.be/TQRN8rITaS4" >video</a></li>
-<li>
+
 <li>
 Statistics in C? (Installing the GNU Scientific Library - Linux)
   <br/> <a href=" https://youtu.be/UmpFM2HEhg4" >video</a></li>
-<li>
-<li>
-Fitting Philip's equation to infiltration data (Excel online)
-  <br/> <a href=" https://youtu.be/7mrs7Eh574o" >video</a></li>
-<li>
+
 <li>
 Fitting Philip's equation to infiltration data (Excel online)
   <br/> <a href=" https://youtu.be/7mrs7Eh574o" >video</a></li>
+
 <li>
+Fitting Philip's equation to infiltration data (Excel online)
+  <br/> <a href=" https://youtu.be/7mrs7Eh574o" >video</a></li>
+
 <li>
 Extração de sal causa colapso? (Can brine extraction cause surface collapse?) (English subtitles)
   <br/> <a href=" https://youtu.be/EzjM2sR8ozE" >video</a></li>
-<li> 
+
 <li>
 van Genuchten fit with regression diagnostics (python) 
   <br/> <a href=" https://youtu.be/MN2CkEzncmw" >video</a></li>
