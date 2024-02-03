@@ -6,6 +6,7 @@ description: #false Materials for courses you taught. Replace this text with you
 nav: true
 nav_order: 5
 ---
+
 I have started a series of short (??) videos on Fluid Dynamics (Fluid Dynamics Droplets - FDD)
 <ol>
 <a href="https://youtube.com/playlist?list=PLLRBE1uLYrK_9JIL9qrSbmrYPORklABKB">Playlist</a>
